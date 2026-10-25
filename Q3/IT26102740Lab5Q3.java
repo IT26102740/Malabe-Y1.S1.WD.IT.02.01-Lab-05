@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class ITxxxxxxxxLab5Q3 {
+public class IT26102740Lab5Q3 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
