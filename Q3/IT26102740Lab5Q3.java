@@ -35,7 +35,7 @@ public class IT26102740Lab5Q3 {
                 totalAmount = totalAmount * 0.90;
             } else if (numberOfDays >= 5) {
                 totalAmount = totalAmount * 0.80;
-            }
+             }
 
             System.out.println();
             System.out.println("Room Charge Per Day: Rs. " + roomCharge);
